@@ -1,0 +1,189 @@
+{
+  "Header": {
+    "title": "Hierrolum Vidrio y Aluminio",
+    "paragraph": "Transformamos tus espacios, superamos tus expectativas."
+  },
+  "About": {
+    "paragraph": "En Hierrolum Vidrio y Aluminio, nos especializamos en la fabricación e instalación de productos de alta calidad en vidrio y aluminio para proyectos residenciales, comerciales e industriales. Con años de experiencia en el sector, nos hemos consolidado como un referente en diseño, innovación y durabilidad.",
+    "Why": [
+      "Calidad Superior",
+      "Experiencia Comprobada",
+      "Diseño Personalizado",
+      "Compromiso con la Satisfacción"
+    ],
+    "Why2": [
+      "Innovación Constante",
+      "Servicio Integral",
+      "Cumplimiento de Plazos",
+      "Excelente Relación Calidad-Precio"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Hierrolum Project 1",
+      "largeImage": "img/portfolio/01-large.jpeg",
+      "smallImage": "img/portfolio/01-small.jpeg"
+    },
+    {
+      "title": "Hierrolum Project 2",
+      "largeImage": "img/portfolio/02-large.jpeg",
+      "smallImage": "img/portfolio/02-small.jpeg"
+    },
+    {
+      "title": "Hierrolum Project 3",
+      "largeImage": "img/portfolio/03-large.jpeg",
+      "smallImage": "img/portfolio/03-small.jpeg"
+    },
+   
+    {
+      "title": "Hierrolum Project 5",
+      "largeImage": "img/portfolio/05-large.jpeg",
+      "smallImage": "img/portfolio/05-small.jpeg"
+    },
+    {
+      "title": "Hierrolum Project 6",
+      "largeImage": "img/portfolio/06-large.jpeg",
+      "smallImage": "img/portfolio/06-small.jpeg"
+    },
+    {
+      "title": "Hierrolum Project 7",
+      "largeImage": "img/portfolio/07-large.jpeg",
+      "smallImage": "img/portfolio/07-small.jpeg"
+    },
+    {
+      "title": "Hierrolum Project 8",
+      "largeImage": "img/portfolio/08-large.jpeg",
+      "smallImage": "img/portfolio/08-small.jpeg"
+    },
+    {
+      "title": "Hierrolum Project 4",
+      "largeImage": "img/portfolio/04-large.jpeg",
+      "smallImage": "img/portfolio/04-small.jpeg"
+    },
+    {
+      "title": "Hierrolum Project 9",
+      "largeImage": "img/portfolio/09-large.jpeg",
+      "smallImage": "img/portfolio/09-small.jpeg"
+    }
+  ],
+
+  "Services": [
+    {
+      "icon": "fa fa-glass",
+      "name": "Barandales con Vidrio Templado",
+      "text": "Diseño e instalación de barandales de vidrio templado que combinan seguridad y elegancia, adaptándose a cualquier espacio arquitectónico."
+    },
+    {
+      "icon": "fa fa-columns",
+      "name": "Canceles para Baño",
+      "text": "Fabricamos y montamos canceles para baño con vidrio templado, ofreciendo durabilidad y un diseño moderno que realza cualquier baño."
+    },
+    {
+      "icon": "fa fa-glass",
+      "name": "Puertas de Vidrio Templado",
+      "text": "Creamos puertas de vidrio templado que destacan por su resistencia y estilo, ideales para entradas residenciales y comerciales."
+    },
+    {
+      "icon": "fa fa-columns",
+      "name": "Ventanas y Canceles de Aluminio",
+      "text": "Ofrecemos una amplia variedad de colores y estilos en ventanas y canceles de aluminio, incluyendo líneas española y nacional de 2 y 3 pulgadas."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Grabados y Vitrales en Vidrio",
+      "text": "Personaliza tus espacios con nuestros grabados y vitrales en vidrio, combinando arte y funcionalidad para crear piezas únicas."
+    },
+    {
+      "icon": "fa fa-th-large",
+      "name": "Domos y Celosías",
+      "text": "Diseñamos e instalamos domos y celosías que permiten el paso de luz natural mientras aportan estilo y distinción a cualquier espacio."
+    }
+    
+  ],
+
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "https://www.facebook.com/profile.php?id=100063723433557&mibextid=ZbWKwL",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-wrench",
+      "title": "Expertos en Instalación",
+      "text": "Nuestro equipo especializado garantiza una instalación precisa y duradera de productos de vidrio y aluminio, adaptándose a cualquier proyecto."
+    },
+    {
+      "icon": "fa fa-cube",
+      "title": "Materiales de Alta Calidad",
+      "text": "Utilizamos solo los mejores materiales en nuestros productos, asegurando resistencia, durabilidad y un acabado impecable en cada proyecto."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Soluciones Personalizadas",
+      "text": "Ofrecemos diseños y soluciones hechos a medida para satisfacer las necesidades únicas de cada cliente, combinando estética y funcionalidad."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Innovación y Tecnología",
+      "text": "Nos mantenemos a la vanguardia de las últimas tendencias y tecnologías en vidrio y aluminio, brindando soluciones modernas y eficientes."
+    }
+  ]
+
+}

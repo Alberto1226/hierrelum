@@ -1,0 +1,32 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+
+.btn-whatsapp {
+  background-color: #25d366; /* Color verde característico de WhatsApp */
+  color: white; /* Texto blanco */
+  font-size: 18px; /* Tamaño de fuente más grande */
+  padding: 10px 20px; /* Espaciado interno */
+  border-radius: 5px; /* Bordes redondeados */
+  text-align: center; /* Centrar el texto */
+}
+
+.btn-whatsapp i {
+  margin-right: 10px; /* Espacio entre el ícono y el texto */
+}
